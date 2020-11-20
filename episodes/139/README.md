@@ -33,9 +33,9 @@
 
 
 ## Others
-[CertManager donated to CNCF](https://www.businesswire.com/news/home/20201117005452/en/Jetstack-Donates-cert-manager-to-Cloud-Native-Computing-Foundation)
-[Certified Kubernetes Security exam now available](https://www.cncf.io/announcements/2020/11/17/kubernetes-security-specialist-certification-now-available/)
-[Cloud Native Buildpacks promoted from incubation to sandbox](https://www.cncf.io/blog/2020/11/18/toc-approves-cloud-native-buildpacks-from-sandbox-to-incubation/)
+*[CertManager donated to CNCF](https://www.businesswire.com/news/home/20201117005452/en/Jetstack-Donates-cert-manager-to-Cloud-Native-Computing-Foundation)
+*[Certified Kubernetes Security exam now available](https://www.cncf.io/announcements/2020/11/17/kubernetes-security-specialist-certification-now-available/)
+*[Cloud Native Buildpacks promoted from incubation to sandbox](https://www.cncf.io/blog/2020/11/18/toc-approves-cloud-native-buildpacks-from-sandbox-to-incubation/)
 
 
 
